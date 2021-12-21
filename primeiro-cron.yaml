@@ -14,5 +14,5 @@ spec:
             args:
             - /bin/sh
             - -c
-            - date; echo Bem Vindo ao Descomplicando Kubernetes - LinuxTips VAIIII ;sleep 30
+            - date; echo funciona - claro que sim ;sleep 30
           restartPolicy: OnFailure
