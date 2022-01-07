@@ -1,1 +1,3 @@
-# masterk8s
+Repositório de Estudo do kubernetes.
+Como funcionam pods,deployments,replicaset,configmaps,statefullset,volumes,services...
+E como funciona a interação entre eles.
